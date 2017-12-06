@@ -12,5 +12,5 @@ Boundary conditions:
   
 Medium: Steam, ideal gas
 
-Iniial conditions:
+Initial conditions:
    Steam temperature: 400[K]
